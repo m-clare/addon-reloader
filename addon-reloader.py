@@ -4,7 +4,7 @@ bl_info = {
     "author": "Amaral Krichman",
     "version": (0, 0, 1),
     "blender": (2, 80, 0),
-    "location": "Global/Text Editor",
+    "location": "Scene / Object / Mesh Properties",
     "warning": "",
     "wiki_url": "",
     "category": "Development",
